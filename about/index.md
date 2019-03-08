@@ -15,4 +15,5 @@ comments: false
 3. Language: Russian, English
 4. Programming Languages: Lua
 
-° Learning Lua and coding scripts for GameGuardian and something else)
+- Learning Lua and coding scripts for GameGuardian and something else)
+- Designer for self)

@@ -10,9 +10,9 @@ comments: false
 
 <center><b>About Me:</b></center>
 
-1. Name: Yaroslav
-2. Age: 15
-3. Language: Russian, English
-4. Programming Languages: Lua
+° Name: Yaroslav
+° Age: 15
+° Language: Russian, English
+° Programming Languages: Lua
 
 ° Learning Lua and coding scripts for GameGuardian and something else)

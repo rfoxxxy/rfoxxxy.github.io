@@ -13,7 +13,7 @@ comments: false
 1. Name: Yaroslav
 2. Age: 15
 3. Language: Russian, English
-4. Programming Languages: Lua
+4. Programming Languages: Lua, NodeJS
 
-- Learning Lua and coding scripts for GameGuardian and something else)
+- Learning NodeJS, Lua and coding scripts for GameGuardian and something else)
 - Designer for self)

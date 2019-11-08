@@ -15,5 +15,5 @@ comments: false
 3. Language: Russian, English
 4. Programming Languages: NodeJS, Python, Lua
 
-- Learning NodeJS, Python, Lua. Coding bots/scripts for VK and Telegram
+- Learning NodeJS, Python, Lua. Developing bots/scripts for VK and Telegram
 - Knows how to kang other's code
